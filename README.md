@@ -28,7 +28,7 @@ Even though we got decent accuracy based on the logic provided there were  cases
 
 Same clutser same label          |  Same cluster different label
 :-------------------------:|:-------------------------:
-![BF matcher](https://github.iu.edu/cs-b657-sp2022/sk128-ujmusku-partrao-a2/blob/main/In%20same%20cluster.png)  |  ![Bf matcher scratch](https://github.iu.edu/cs-b657-sp2022/sk128-ujmusku-partrao-a2/blob/main/In%20same%20cluster%20different%20label.png)
+![BF matcher](https://github.com/skshashank74/Computer-Vision--Image-Matching-and-Transformation/blob/main/In%20same%20cluster.png)  |  ![Bf matcher scratch](https://github.com/skshashank74/Computer-Vision--Image-Matching-and-Transformation/blob/main/In%20same%20cluster%20different%20label.png)
 
 
 ## Part 2: Image transformations
