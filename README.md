@@ -1,4 +1,4 @@
-# Assignment 2 
+# Computer Vision Assignment 2 
 
 ## Part 1: Image matching and clustering
 
