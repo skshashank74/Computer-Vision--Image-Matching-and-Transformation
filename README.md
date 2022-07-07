@@ -14,7 +14,7 @@ Initially, I made my own BF matcher and visualization function. But to run for a
 
 BF matcher           |  BF matcher from scratch
 :-------------------------:|:-------------------------:
-![BF matcher](https://github.iu.edu/cs-b657-sp2022/sk128-ujmusku-partrao-a2/blob/main/BF%20matcher1.png)  |  ![Bf matcher scratch](https://github.iu.edu/cs-b657-sp2022/sk128-ujmusku-partrao-a2/blob/main/BF%20matcher_scratch.png)
+![BF matcher](https://github.com/skshashank74/Computer-Vision--Image-Matching-and-Transformation/blob/main/BF%20matcher1.png)  |  ![Bf matcher scratch](https://github.com/skshashank74/Computer-Vision--Image-Matching-and-Transformation/blob/main/BF%20matcher_scratch.png)
 
 
 ### Clustering:
